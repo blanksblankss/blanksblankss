@@ -79,8 +79,16 @@ I build **story-driven games**, **reliable desktop and mobile apps**, and **web-
 
 ### 🎮 Fistful of Herbs
 
-![Fistful of Herbs](https://raw.githubusercontent.com/blanksblankss/blanksblankss/main/media/thumbnail.png)
-(https://github.com/blanksblankss/blanksblankss/releases/download/demo/fistful_of_herbs.mp4)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/blanksblankss/blanksblankss/blob/main/media/fistful_of_herbs-ezgif.com-video-to-gif-converter.gif"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/blanksblankss/blanksblankss/main/media/thumbnail.png"
+  />
+</picture>
 
 Narrative-driven Unity game featuring potion-based mechanics, grounded combat, and environmental storytelling.
 

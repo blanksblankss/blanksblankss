@@ -82,13 +82,15 @@ I build **story-driven games**, **reliable desktop and mobile apps**, and **web-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/blanksblankss/blanksblankss/blob/main/media/fistful_of_herbs-ezgif.com-video-to-gif-converter.gif"
+    srcset="https://raw.githubusercontent.com/blanksblankss/blanksblankss/main/media/fistful_of_herbs-ezgif.com-video-to-gif-converter.gif"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt="Fistful of Herbs gameplay preview"
     src="https://raw.githubusercontent.com/blanksblankss/blanksblankss/main/media/thumbnail.png"
+    width="420"
   />
 </picture>
+
 
 Narrative-driven Unity game featuring potion-based mechanics, grounded combat, and environmental storytelling.
 

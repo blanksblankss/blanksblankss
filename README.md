@@ -94,6 +94,23 @@ I build **story-driven games**, **reliable desktop and mobile apps**, and **web-
 
 Narrative-driven Unity game featuring potion-based mechanics, grounded combat, and environmental storytelling.
 
+### 🎮 Aether Isles
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/blanksblankss/blanksblankss/main/media/fistful_of_herbs-ezgif.com-video-to-gif-converter.gif"
+  />
+  <img
+    alt="Fistful of Herbs gameplay preview"
+    src="https://raw.githubusercontent.com/blanksblankss/blanksblankss/main/media/thumbnail.png"
+    width="420"
+  />
+</picture>
+
+
+Aether Isles is a third-person anime sky exploration game where the player controls a young researcher-adventurer who pilots a mobile research ship through open sky biomes. The world is made of floating island fragments scattered across the sky after an ancient disaster shattered the land. The player manually flies from island to island, docks at landing pads, explores on foot, scans creatures and ruins, fights monsters using sword and magic equipment, collects research data, and uncovers the truth behind the fractured world.
+
 
 
 

@@ -99,7 +99,7 @@ Narrative-driven Unity game featuring potion-based mechanics, grounded combat, a
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="media/Aether Isles/thumbnail.gif"
+    srcset="https://raw.githubusercontent.com/blanksblankss/blanksblankss/main/media/Aether%20Isles/thumbnail.gif)"
   />
   <img
     alt="Fistful of Herbs gameplay preview"

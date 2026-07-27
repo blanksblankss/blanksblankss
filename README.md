@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Blankz
 
-I'm a **game developer** and **software developer** focused on **Unity**, **game systems**, **editor tooling**, and **mobile performance**.
+I'm a **game developer**, **software developer**, and **Unity Asset Store publisher** focused on **Unity**, **game systems**, **editor tooling**, and **mobile performance**.
 
 I build **story-driven games**, **reusable development tools**, and **API-backed applications** with an emphasis on practical systems, maintainable workflows, and performance-conscious design.
 
@@ -8,8 +8,28 @@ I build **story-driven games**, **reusable development tools**, and **API-backed
   <img src="https://img.shields.io/badge/Unity-Game%20Development-black?style=for-the-badge&logo=unity" />
   <img src="https://img.shields.io/badge/C%23-Development-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-API%20Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-Mobile%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity%20Asset%20Store-Publisher-000000?style=for-the-badge&logo=unity" />
 </p>
+
+---
+
+## 🏆 Published Unity Assets
+
+I design and publish production-oriented Unity tools, with a particular focus on extending **Game Creator 2** through systems that remain practical for designers while exposing deeper runtime control to developers.
+
+### 🧱 Build System for Game Creator 2
+
+A modular runtime construction framework with **inventory-driven placement**, **surface and socket snapping**, **edit/destroy workflows**, **save and streaming support**, structured diagnostics, NavMesh utilities, and extensive Game Creator Visual Scripting integration.
+
+[**Unity Asset Store**](https://assetstore.unity.com/packages/tools/utilities/build-system-for-game-creator-2-367112) · [**GitHub Documentation**](https://github.com/blanksblankss/Build-System-For-Game-Creator-2)
+
+### 💬 Dialogue Text Animator for Game Creator 2
+
+A TextMeshPro-based dialogue animation system featuring **tag-driven text effects**, reusable style and animation profiles, optional typewriter audio, nested tags, an editor Tagging Assistant, and Game Creator-compatible Visual Scripting hooks.
+
+[**Unity Asset Store**](https://assetstore.unity.com/packages/tools/utilities/dialogue-text-animator-for-game-creator-2-370116) · [**GitHub Documentation**](https://github.com/blanksblankss/Dialogue-Text-Animator-for-Game-Creator-2)
+
+**Publisher:** [Indie Blankz on the Unity Asset Store](https://assetstore.unity.com/publishers/67079)
 
 ---
 
@@ -59,7 +79,7 @@ The player pilots a mobile research ship between biomes, explores islands on foo
 
 ---
 
-## 🛠 Unity Tools & Published Work
+## 🛠 Unity Tooling
 
 ### Universal Track System
 
@@ -75,15 +95,14 @@ The player pilots a mobile research ship between biomes, explores islands on foo
 
 It represents the kind of tooling I enjoy building: systems that reduce repetitive work and give designers and developers more control inside the editor.
 
-**Unity Asset Store:** [Blankz publisher page](https://assetstore.unity.com/publishers/67079)
-
 ---
 
 ## ⚙️ Technical Focus
 
 | Area | Experience |
 | --- | --- |
-| **Unity & C#** | Gameplay systems, custom editors, reusable packages, Game Creator 2 integration |
+| **Unity & C#** | Gameplay systems, custom editors, reusable packages, Game Creator 2 extensions |
+| **Tool & Package Development** | Runtime/editor architecture, designer-facing workflows, Visual Scripting integrations |
 | **Rendering & Performance** | URP, Forward+, mobile optimization, profiling, performance-conscious workflows |
 | **Content Delivery** | Addressables, Google Play Asset Delivery, streamed content workflows |
 | **World & Scene Systems** | Scene organization, asynchronous loading, runtime content management |
@@ -99,7 +118,7 @@ It represents the kind of tooling I enjoy building: systems that reduce repetiti
 ## 🚧 Current Focus
 
 - Developing **Fistful of Herbs**
-- Building reusable **Unity editor systems and packages**
+- Building and publishing reusable **Unity tools and Game Creator 2 extensions**
 - Improving **mobile rendering, performance, and content streaming**
 - Designing **API-backed systems** for applications and development workflows
 

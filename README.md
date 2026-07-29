@@ -35,6 +35,12 @@ A configurable **URP world-space scanner effect** with reusable pulse profiles, 
 
 [**Unity Asset Store**](https://assetstore.unity.com/packages/tools/utilities/pulse-scanner-fx-for-game-creator-2-368404) · [**GitHub Documentation**](https://github.com/blanksblankss/Pulse-Scanner-FX-for-Game-Creator-2)
 
+### 🧭 Smart Waypoints for Game Creator 2
+
+A GC2-native path-authoring and Character movement toolkit with **Scene-view waypoint editing**, smooth tweened traversal, per-node easing and waits, Once/Loop/Ping-Pong modes, from/to/between/resume controls, index-passed events, and position-aware waypoint properties.
+
+[**Unity Asset Store**](https://assetstore.unity.com/packages/tools/game-toolkits/smart-waypoints-for-game-creator-2-331388) · [**GitHub Documentation**](https://github.com/blanksblankss/Smart-Waypoints-for-Game-Creator-2)
+
 **Publisher:** [Indie Blankz on the Unity Asset Store](https://assetstore.unity.com/publishers/67079)
 
 ---

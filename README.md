@@ -57,7 +57,7 @@ A mobile input extension that connects **static or floating touch movement**, or
   <img
     src="https://raw.githubusercontent.com/blanksblankss/blanksblankss/main/media/mobile-controller-for-game-creator-2.svg"
     alt="Mobile Controller for Game Creator 2 preview"
-    width="600"
+    width="460"
   />
 </p>
 

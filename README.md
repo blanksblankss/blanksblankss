@@ -48,11 +48,6 @@ An **editor-only visual dialogue authoring layer** with node-based conversation 
 [**Unity Asset Store**](https://assetstore.unity.com/packages/tools/game-toolkits/dialogue-graph-overlay-for-game-creator-2-dialogue-2-361366) · [**GitHub Documentation**](https://github.com/blanksblankss/Dialogue-Graph-Overlay-for-Game-Creator-2---Dialogue-2)
 
 ### 📱 Mobile Controller for Game Creator 2
-
-A mobile input extension that connects **static or floating touch movement**, orbit-camera rotation, pinch-to-zoom, sensitivity tuning, and invertible camera axes directly to Game Creator 2 Character and Camera Shot workflows.
-
-[**Unity Asset Store**](https://assetstore.unity.com/packages/tools/game-toolkits/mobile-controller-for-game-creator-2-264611) · [**GitHub Documentation**](https://github.com/blanksblankss/Mobile-Controller-For-Game-Creator-2)
-
 <p align="left">
   <img
     src="https://raw.githubusercontent.com/blanksblankss/blanksblankss/main/media/mobile-controller-for-game-creator-2.svg"
@@ -60,6 +55,12 @@ A mobile input extension that connects **static or floating touch movement**, or
     width="460"
   />
 </p>
+
+A mobile input extension that connects **static or floating touch movement**, orbit-camera rotation, pinch-to-zoom, sensitivity tuning, and invertible camera axes directly to Game Creator 2 Character and Camera Shot workflows.
+
+[**Unity Asset Store**](https://assetstore.unity.com/packages/tools/game-toolkits/mobile-controller-for-game-creator-2-264611) · [**GitHub Documentation**](https://github.com/blanksblankss/Mobile-Controller-For-Game-Creator-2)
+
+
 
 **Publisher:** [Indie Blankz on the Unity Asset Store](https://assetstore.unity.com/publishers/67079)
 

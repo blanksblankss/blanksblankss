@@ -53,6 +53,14 @@ A mobile input extension that connects **static or floating touch movement**, or
 
 [**Unity Asset Store**](https://assetstore.unity.com/packages/tools/game-toolkits/mobile-controller-for-game-creator-2-264611) · [**GitHub Documentation**](https://github.com/blanksblankss/Mobile-Controller-For-Game-Creator-2)
 
+<p align="left">
+  <img
+    src="https://raw.githubusercontent.com/blanksblankss/blanksblankss/main/media/mobile-controller-for-game-creator-2.svg"
+    alt="Mobile Controller for Game Creator 2 preview"
+    width="600"
+  />
+</p>
+
 **Publisher:** [Indie Blankz on the Unity Asset Store](https://assetstore.unity.com/publishers/67079)
 
 ---

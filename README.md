@@ -29,6 +29,12 @@ A TextMeshPro-based dialogue animation system featuring **tag-driven text effect
 
 [**Unity Asset Store**](https://assetstore.unity.com/packages/tools/utilities/dialogue-text-animator-for-game-creator-2-370116) · [**GitHub Documentation**](https://github.com/blanksblankss/Dialogue-Text-Animator-for-Game-Creator-2)
 
+### 📡 Pulse Scanner FX for Game Creator 2
+
+A configurable **URP world-space scanner effect** with reusable pulse profiles, directional cones, grid and edge styling, visual layer filtering, lightweight responder detection, and Game Creator 2 Instructions and events for custom reveal, stealth, sonar, objective, dialogue, and VFX workflows.
+
+[**Unity Asset Store**](https://assetstore.unity.com/packages/tools/utilities/pulse-scanner-fx-for-game-creator-2-368404) · [**GitHub Documentation**](https://github.com/blanksblankss/Pulse-Scanner-FX-for-Game-Creator-2)
+
 **Publisher:** [Indie Blankz on the Unity Asset Store](https://assetstore.unity.com/publishers/67079)
 
 ---

@@ -51,6 +51,14 @@ A GC2-native path-authoring and Character movement toolkit with **Scene-view way
 
 ### 🕸 Dialogue Graph Overlay for Game Creator 2 — Dialogue 2
 
+<p align="left">
+  <img
+    src="https://raw.githubusercontent.com/blanksblankss/blanksblankss/main/media/dialogue-graph-overlay-for-game-creator-2.svg"
+    alt="Dialogue Graph Overlay for Game Creator 2 — Dialogue 2 preview"
+    width="460"
+  />
+</p>
+
 An **editor-only visual dialogue authoring layer** with node-based conversation editing, wire-driven branching, live Play Mode preview, actor-expression portraits, inspector parity, search and graph organization tools, Graph CSV roundtrips, localization exports, and minimal runtime impact.
 
 [**Unity Asset Store**](https://assetstore.unity.com/packages/tools/game-toolkits/dialogue-graph-overlay-for-game-creator-2-dialogue-2-361366) · [**GitHub Documentation**](https://github.com/blanksblankss/Dialogue-Graph-Overlay-for-Game-Creator-2---Dialogue-2)

@@ -47,6 +47,12 @@ An **editor-only visual dialogue authoring layer** with node-based conversation 
 
 [**Unity Asset Store**](https://assetstore.unity.com/packages/tools/game-toolkits/dialogue-graph-overlay-for-game-creator-2-dialogue-2-361366) · [**GitHub Documentation**](https://github.com/blanksblankss/Dialogue-Graph-Overlay-for-Game-Creator-2---Dialogue-2)
 
+### 📱 Mobile Controller for Game Creator 2
+
+A mobile input extension that connects **static or floating touch movement**, orbit-camera rotation, pinch-to-zoom, sensitivity tuning, and invertible camera axes directly to Game Creator 2 Character and Camera Shot workflows.
+
+[**Unity Asset Store**](https://assetstore.unity.com/packages/tools/game-toolkits/mobile-controller-for-game-creator-2-264611) · [**GitHub Documentation**](https://github.com/blanksblankss/Mobile-Controller-For-Game-Creator-2)
+
 **Publisher:** [Indie Blankz on the Unity Asset Store](https://assetstore.unity.com/publishers/67079)
 
 ---
@@ -122,6 +128,7 @@ It represents the kind of tooling I enjoy building: systems that reduce repetiti
 | **Unity & C#** | Gameplay systems, custom editors, reusable packages, Game Creator 2 extensions |
 | **Tool & Package Development** | Runtime/editor architecture, designer-facing workflows, Visual Scripting integrations |
 | **Narrative Tooling** | Dialogue graphs, editor overlays, localization workflows, CSV roundtrips, live preview systems |
+| **Mobile Input & UX** | Touch movement, camera orbit, pinch zoom, input sensitivity, mobile-first interaction workflows |
 | **Rendering & Performance** | URP, Forward+, mobile optimization, profiling, performance-conscious workflows |
 | **Content Delivery** | Addressables, Google Play Asset Delivery, streamed content workflows |
 | **World & Scene Systems** | Scene organization, asynchronous loading, runtime content management |
@@ -138,7 +145,7 @@ It represents the kind of tooling I enjoy building: systems that reduce repetiti
 
 - Developing **Fistful of Herbs**
 - Building and publishing reusable **Unity tools and Game Creator 2 extensions**
-- Improving **mobile rendering, performance, and content streaming**
+- Improving **mobile rendering, performance, controls, and content streaming**
 - Designing **API-backed systems** for applications and development workflows
 
 ---

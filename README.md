@@ -25,6 +25,14 @@ A modular runtime construction framework with **inventory-driven placement**, **
 
 ### 💬 Dialogue Text Animator for Game Creator 2
 
+<p align="left">
+  <img
+    src="https://raw.githubusercontent.com/blanksblankss/blanksblankss/main/media/dialogue-text-animator-for-game-creator-2-profile.svg"
+    alt="Dialogue Text Animator for Game Creator 2 preview"
+    width="460"
+  />
+</p>
+
 A TextMeshPro-based dialogue animation system featuring **tag-driven text effects**, reusable style and animation profiles, optional typewriter audio, nested tags, an editor Tagging Assistant, and Game Creator-compatible Visual Scripting hooks.
 
 [**Unity Asset Store**](https://assetstore.unity.com/packages/tools/utilities/dialogue-text-animator-for-game-creator-2-370116) · [**GitHub Documentation**](https://github.com/blanksblankss/Dialogue-Text-Animator-for-Game-Creator-2)

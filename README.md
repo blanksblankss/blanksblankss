@@ -41,6 +41,12 @@ A GC2-native path-authoring and Character movement toolkit with **Scene-view way
 
 [**Unity Asset Store**](https://assetstore.unity.com/packages/tools/game-toolkits/smart-waypoints-for-game-creator-2-331388) · [**GitHub Documentation**](https://github.com/blanksblankss/Smart-Waypoints-for-Game-Creator-2)
 
+### 🕸 Dialogue Graph Overlay for Game Creator 2 — Dialogue 2
+
+An **editor-only visual dialogue authoring layer** with node-based conversation editing, wire-driven branching, live Play Mode preview, actor-expression portraits, inspector parity, search and graph organization tools, Graph CSV roundtrips, localization exports, and minimal runtime impact.
+
+[**Unity Asset Store**](https://assetstore.unity.com/packages/tools/game-toolkits/dialogue-graph-overlay-for-game-creator-2-dialogue-2-361366) · [**GitHub Documentation**](https://github.com/blanksblankss/Dialogue-Graph-Overlay-for-Game-Creator-2---Dialogue-2)
+
 **Publisher:** [Indie Blankz on the Unity Asset Store](https://assetstore.unity.com/publishers/67079)
 
 ---
@@ -115,6 +121,7 @@ It represents the kind of tooling I enjoy building: systems that reduce repetiti
 | --- | --- |
 | **Unity & C#** | Gameplay systems, custom editors, reusable packages, Game Creator 2 extensions |
 | **Tool & Package Development** | Runtime/editor architecture, designer-facing workflows, Visual Scripting integrations |
+| **Narrative Tooling** | Dialogue graphs, editor overlays, localization workflows, CSV roundtrips, live preview systems |
 | **Rendering & Performance** | URP, Forward+, mobile optimization, profiling, performance-conscious workflows |
 | **Content Delivery** | Addressables, Google Play Asset Delivery, streamed content workflows |
 | **World & Scene Systems** | Scene organization, asynchronous loading, runtime content management |

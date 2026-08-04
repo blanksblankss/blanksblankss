@@ -27,7 +27,7 @@ A modular runtime construction framework with **inventory-driven placement**, **
 
 <p align="left">
   <img
-    src="https://raw.githubusercontent.com/blanksblankss/blanksblankss/main/media/dialogue-text-animator-for-game-creator-2-profile.svg"
+    src="https://raw.githubusercontent.com/blanksblankss/blanksblankss/main/media/dialogue-text-animator-for-game-creator-2-v2.svg"
     alt="Dialogue Text Animator for Game Creator 2 preview"
     width="460"
   />
